@@ -1,2 +1,5 @@
 # wine-info-analysis
-Analysis wine websites to find best wine to buy  
+Analysis wine websites to find best wine to buy
+
+##License
+MIT 

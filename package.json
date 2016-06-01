@@ -1,0 +1,28 @@
+{
+  "name": "wine-info-analysis",
+  "version": "1.0.0",
+  "description": "Analysis wine websites to find best wine to buy.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidSuns/wine-info-analysis.git"
+  },
+  "keywords": [
+    "nodejs",
+    "data",
+    "analysis",
+    "wine"
+  ],
+  "author": "David Sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidSuns/wine-info-analysis/issues"
+  },
+  "homepage": "https://github.com/DavidSuns/wine-info-analysis#readme",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "jade": "^1.11.0"
+  }
+}
